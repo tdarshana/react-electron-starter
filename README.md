@@ -4,4 +4,4 @@ This project is created with React JS, Electron and configured to deployed with 
 
 ###### Note:
 
-<small>This project is created from the sources of [building-an-electron-application-with-create-react-app](https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c "Building an Electron application with create-react-app")</small>
+<small>This project is created from the sources of [Building an Electron application with create-react-app](https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c)</small>
